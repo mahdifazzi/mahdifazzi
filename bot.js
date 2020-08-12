@@ -308,7 +308,7 @@ message.channel.send('#daily')
   if(message.content === '$c'){
 message.channel.send('#credits')
   }
-  if(message.content.startsWith("$s")) {
+  if(message.contentstartsWith("$s")) {
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
   }
