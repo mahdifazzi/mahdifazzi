@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+eedoconst Discord = require("discord.js");
 const myid = ['583718628554309644']
 const client = new Discord.Client();
 const client2 =new Discord.Client();
@@ -373,7 +373,7 @@ if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`benjeedou`)
           .then(m => {
             count++;
           })
@@ -387,7 +387,7 @@ if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
-        message.channel.send(`d`)
+        message.channel.send(`benjeedou`)
           .then(m => {
             count++;
           })
@@ -401,7 +401,7 @@ if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
-        message.channel.send(`d`)
+        message.channel.send(`benjeedou`)
           .then(m => {
             count++;
           })
@@ -415,7 +415,7 @@ if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
-        message.channel.send(`d`)
+        message.channel.send(`benjeedou`)
           .then(m => {
             count++;
           })
@@ -429,7 +429,7 @@ if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
-        message.channel.send(`d`)
+        message.channel.send(`benjeedou`)
           .then(m => {
             count++;
           })
@@ -443,7 +443,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`d`)
+        message.channel.send(`benjeedou`)
           .then(m => {
             count++;
           })
