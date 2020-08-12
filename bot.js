@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const myid = ['583718628554309644']
 const client = 742907686701760512.Client();
 const client2 =742848071330955286.Client();
-const client3 = new Discord.Client();
+const client3 = 742904934344949830.Client();
 const client4 = new Discord.Client();
 const client5 = new Discord.Client();
 const client6 = new Discord.Client();
@@ -29,7 +29,7 @@ const client24 = new Discord.Client();
 
 client.login(NzQyODQ1MDkyMTM3NjY0NjY0XzM3Xgl0b8fLStI7CJJLinBHfNLhGjr0Q.env.TOKEN);
 client2.login(NzQyOTA3Njg2NzAxNzYwNTEyXzM9YwIUi1eqrVFxq4AJ1EEsRwY7PaGxM.env.TOKEN2);
-client3.login(process.env.TOKEN3);
+client3.login(NzQyOTA0OTM0MzQ0OTQ5ODMwXzOdFAqSC0oBgrgywIHOOQlxn71x3bDtw.env.TOKEN3);
 client4.login(process.env.TOKEN4);
 client5.login(process.env.TOKEN5);
 client6.login(process.env.TOKEN6);
