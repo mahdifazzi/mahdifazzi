@@ -383,7 +383,7 @@ if (message.content === 'spam') {
 });
 
 client2.on('message', message => {
-if (message.content === 'spam') {
+if (message.content === 'go') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
@@ -397,7 +397,7 @@ if (message.content === 'spam') {
 });
 
 client3.on('message', message => {
-if (message.content === 'spam') {
+if (message.content === 'go') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
@@ -411,7 +411,7 @@ if (message.content === 'spam') {
 });
 
 client4.on('message', message => {
-if (message.content === 'spam') {
+if (message.content === 'go') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
@@ -425,7 +425,7 @@ if (message.content === 'spam') {
 });
 
 client5.on('message', message => {
-if (message.content === 'spam') {
+if (message.content === 'go') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 25000; x++) {
@@ -439,7 +439,7 @@ if (message.content === 'spam') {
 });
 
 client6.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === 'go') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
